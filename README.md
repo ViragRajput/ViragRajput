@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Virag
+## 👋 &nbsp;Hey there! I'm Virag Rajput
 
 ### 👨🏻‍💻 &nbsp;About Me
 
