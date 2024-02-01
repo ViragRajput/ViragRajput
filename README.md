@@ -24,8 +24,8 @@
 
 <p align="">
 <a href="https://github.com/CodeWithVirag">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CodeWithVirag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CodeWithVirag&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViragRajput&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViragRajput&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
